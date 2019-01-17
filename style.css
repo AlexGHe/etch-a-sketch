@@ -1,0 +1,19 @@
+.buttons {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+#grid {
+  margin: 0 auto;
+  height: 500px;
+  width: 500px;
+  background-color: black;
+  border-style: solid;
+}
+
+.cell {
+  display: inline-block;
+  vertical-align: top;
+  box-sizing: border-box;
+}
