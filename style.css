@@ -13,7 +13,7 @@
 }
 
 .cell {
-  display: inline-block;
+  float: left;
   vertical-align: top;
   box-sizing: border-box;
 }
